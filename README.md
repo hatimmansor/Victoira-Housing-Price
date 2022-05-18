@@ -3,18 +3,11 @@ The aim of this project is to create an application to predict housing prices of
 Linear Regression analysis being used predict house prices. Number of bedrooms, bathrooms, car space, land area and median suburb sold price are used as prediction features
 
 
-<a name="reason"></a>
+# Data Source
+Fully Automated data collection, usin API Packages - Domain Devleloper Portal https://developer.domain.com.au/
+LGA locality data, DATA VIC https://discover.data.vic.gov.au/dataset/victorian-electors-by-locality-postcode-and-electorates
 
 
-<a name="source"></a>
-## Data Source: API call from Domain.com.au to obtain  property listing data.
-LGA locality data from https://discover.data.vic.gov.au/dataset/victorian-electors-by-locality-postcode-and-electorates
-
-
-
-- [Melbourne Housing Market](https://www.domain.com.au/)
-
-<a name="tech"></a>
 ## Technologies/Tools: 
 - Jupyter Notebook
 - Python
