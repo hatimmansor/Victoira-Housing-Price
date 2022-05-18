@@ -1,7 +1,6 @@
 # Housing Price Prediction
-[Melbourne Housing Price Prediction](https://github.com/salehakhatun/Final-Project/)
-
-![Houses Picture](image/melbourne_houses.jpg)
+The aim of this project is to create an application to predict housing prices of Victoria. The created app can be used by any buyer or an investor to find suburb sales information like number of listed houses, number of sold houses, median price, renting information, etc. 
+Linear Regression analysis being used predict house prices. Number of bedrooms, bathrooms, car space, land area and median suburb sold price are used as prediction features
 
 
 <a name="reason"></a>
