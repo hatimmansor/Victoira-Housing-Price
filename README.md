@@ -4,7 +4,7 @@ Linear Regression analysis being used predict house prices. Number of bedrooms, 
 
 
 <a name="reason"></a>
-## The scope of this project is to create a website to predict housing prices of Victoria. The website created can be used by any buyer or an investor. We have used linear regression analysis to predict the outcome
+
 
 <a name="source"></a>
 ## Data Source: API call from Domain.com.au to obtain  property listing data.
