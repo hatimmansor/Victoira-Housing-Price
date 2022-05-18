@@ -4,8 +4,8 @@ Linear Regression analysis being used predict house prices. Number of bedrooms, 
 
 
 # Data Source
-Fully Automated data collection, usin API Packages - Domain Devleloper Portal https://developer.domain.com.au/
-LGA locality data, DATA VIC https://discover.data.vic.gov.au/dataset/victorian-electors-by-locality-postcode-and-electorates
+- Fully Automated data collection, usin API Packages - Domain Devleloper Portal https://developer.domain.com.au/
+- LGA locality data, DATA VIC https://discover.data.vic.gov.au/dataset/victorian-electors-by-locality-postcode-and-electorates
 
 
 ## Technologies/Tools: 
