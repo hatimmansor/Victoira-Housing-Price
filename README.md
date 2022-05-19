@@ -28,6 +28,25 @@ Linear Regression analysis being used predict house prices. Number of bedrooms, 
 11. deploy locally
 
 
+# Code Snapshots and Results 
+![unnamed (1)](https://user-images.githubusercontent.com/24882457/169264752-f2abf6c3-a8e9-429b-9247-9f8b085b76fb.png)
+
+![ERD_28 04 22](https://user-images.githubusercontent.com/24882457/169264269-fdd09f70-abc7-4fc2-8e8e-fe59edcf2bee.PNG)
+![fig4](https://user-images.githubusercontent.com/24882457/169264365-26c6edc0-c4bb-4cd4-8e57-ac4fee09b185.png)
+![fig6](https://user-images.githubusercontent.com/24882457/169264408-9f73ee0e-0127-43f7-8da9-4faba0710311.png)
+![unnamed](https://user-images.githubusercontent.com/24882457/169264790-e43767ef-daa2-4b17-b4db-22c0c02d90b5.png)
+
+
+
+<img src="https://user-images.githubusercontent.com/24882457/168723999-368049e6-2fd3-4727-857a-010f53f80b3d.png" width="600" height="400" title="Data engineering – SCHEMA DIAGRAM" style="vertical-align:middle;margin:50px 50px">
+
+
+<img src="https://user-images.githubusercontent.com/24882457/168761449-8aacb912-40dc-4157-b4b0-48d3bdb95375.png" width="600" height="400" title="Table Nill Value Menu" style="vertical-align:middle;margin:50px 50px">
+<div>
+<img src="https://user-images.githubusercontent.com/24882457/168761260-2ad781ae-2955-49f5-900d-ab56e2d2cd9c.PNG" width="600" height="400" title="Text Menu" style="margin:auto ">
+</div>
+
+
 # Team-Dolphin Smart:
 01. Hatim M
 02. John N
@@ -36,15 +55,6 @@ Linear Regression analysis being used predict house prices. Number of bedrooms, 
 05. Kumudi M
 06. Phimnarin
 
-
-# Code Snapshots and Results 
-<img src="https://user-images.githubusercontent.com/24882457/168723999-368049e6-2fd3-4727-857a-010f53f80b3d.png" width="600" height="400" title="Data engineering – SCHEMA DIAGRAM" style="vertical-align:middle;margin:50px 50px">
-
-
-<img src="https://user-images.githubusercontent.com/24882457/168761449-8aacb912-40dc-4157-b4b0-48d3bdb95375.png" width="600" height="400" title="Table Nill Value Menu" style="vertical-align:middle;margin:50px 50px">
-<div>
-<img src="https://user-images.githubusercontent.com/24882457/168761260-2ad781ae-2955-49f5-900d-ab56e2d2cd9c.PNG" width="600" height="400" title="Text Menu" style="margin:auto ">
-</div>
 
 # Links
 <img src="https://user-images.githubusercontent.com/24882457/168723224-ecbdb402-be01-453d-9cb5-282424f7418a.png" width="20" height="20" title=" Hatims email"><Hatimf2004@gmail.com>
