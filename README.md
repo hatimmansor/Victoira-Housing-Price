@@ -50,7 +50,7 @@ Linear Regression analysis being used predict house prices. Number of bedrooms, 
 </style>
 </head>
 <div class="row">
-  <div class="column">
+  <div   style="float: left;width: 33.33%;padding: 5px">
     <img src="https://user-images.githubusercontent.com/24882457/169265591-3c61521c-f76a-4557-a894-0d184f8564b0.png" alt="Snow" style="width:100%">
   </div>
   <div class="column">
