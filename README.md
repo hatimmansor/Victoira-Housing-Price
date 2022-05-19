@@ -46,7 +46,7 @@ Linear Regression analysis being used predict house prices. Number of bedrooms, 
     <tr>
     <th style="text-align:center">ERD</th>
     <th style="text-align:center">Feature Correlation Heatmap</th>
-    <th style="text-align:center">Price Vs all the Feature charts</th>
+    <th style="text-align:center">Price vs all the Feature charts</th>
      
   </tr>
   <tr>
