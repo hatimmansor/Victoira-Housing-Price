@@ -9,18 +9,9 @@ Linear Regression analysis being used predict house prices. Number of bedrooms, 
 
 
 ## Technologies/Tools: 
-&#x2705;
-- [x] Jupyter Notebook. [X] Python  
-- Numpy
-- Pandas
-- Seaborn
-- Matplotlib
-- Tableau
-- PostgreSQL/ SQLAlchemy
-- Machine Language
-- Scikit-learn
-- Flask
-- Js/HTML/CSS
+&#x2705;Jupyter Notebook.      &#x2705;Python      &#x2705;Numpy      &#x2705;Pandas      &#x2705;Seaborn
+&#x2705;Matplotlib      &#x2705;Tableau      &#x2705;PostgreSQL/ SQLAlchemy      &#x2705;Machine Language
+&#x2705;Scikit-learn      &#x2705;Flask      &#x2705;Js/HTML/CSS
 
 
 <a name="approach"></a>
