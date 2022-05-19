@@ -32,25 +32,17 @@ Linear Regression analysis being used predict house prices. Number of bedrooms, 
 
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>Application Main Page</td>
+     <td>tableau Dashboard</td>
+     
   </tr>
   <tr>
-    <td><img src="screenshots/Screenshot_1582745092.png" width=270 height=480></td>
-    <td><img src="screenshots/Screenshot_1582745125.png" width=270 height=480></td>
-    <td><img src="screenshots/Screenshot_1582745139.png" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/24882457/169265591-3c61521c-f76a-4557-a894-0d184f8564b0.png" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/24882457/169265320-86665dfe-22b9-49fe-baad-7bdb168f96fe.png" width=270 height=480></td>
+    
   </tr>
  </table>
 
-<div   style="clear: both; display: table">
-  <div   style="float: left;width: 33.33%;padding: 5px">
-    <img src="https://user-images.githubusercontent.com/24882457/169265591-3c61521c-f76a-4557-a894-0d184f8564b0.png" alt="Snow" style="width:100%">
-  </div>
-  <div style="float: left;width: 33.33%;padding: 5px">
-    <img src="https://user-images.githubusercontent.com/24882457/169265320-86665dfe-22b9-49fe-baad-7bdb168f96fe.png" alt="Forest" style="width:100%">
-  </div>
- </div>
 
 
 ![ERD_28 04 22](https://user-images.githubusercontent.com/24882457/169264269-fdd09f70-abc7-4fc2-8e8e-fe59edcf2bee.PNG)
