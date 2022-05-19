@@ -41,7 +41,8 @@ Linear Regression analysis being used predict house prices. Number of bedrooms, 
     <td><img src="https://user-images.githubusercontent.com/24882457/169265320-86665dfe-22b9-49fe-baad-7bdb168f96fe.png" width=550 height=350></td>
     
   </tr>
- 
+</table>
+<table>
     <tr>
     <td>Application Main Page</td>
      <td>Tableau Dashboard</td>
@@ -49,9 +50,9 @@ Linear Regression analysis being used predict house prices. Number of bedrooms, 
      
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/24882457/169264269-fdd09f70-abc7-4fc2-8e8e-fe59edcf2bee.PNG" width=550 height=350></td>
-    <td><img src="https://user-images.githubusercontent.com/24882457/169264365-26c6edc0-c4bb-4cd4-8e57-ac4fee09b185.png" width=550 height=350></td>
-    <td><img src="https://user-images.githubusercontent.com/24882457/169264408-9f73ee0e-0127-43f7-8da9-4faba0710311.png" width=550 height=350></td>
+    <td><img src="https://user-images.githubusercontent.com/24882457/169264269-fdd09f70-abc7-4fc2-8e8e-fe59edcf2bee.PNG" width=370 height=250></td>
+    <td><img src="https://user-images.githubusercontent.com/24882457/169264365-26c6edc0-c4bb-4cd4-8e57-ac4fee09b185.png" width=370 height=250></td>
+    <td><img src="https://user-images.githubusercontent.com/24882457/169264408-9f73ee0e-0127-43f7-8da9-4faba0710311.png" width=370 height=250></td>
     
   </tr>
  </table>
