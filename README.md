@@ -37,8 +37,8 @@ Linear Regression analysis being used predict house prices. Number of bedrooms, 
      
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/24882457/169265591-3c61521c-f76a-4557-a894-0d184f8564b0.png" width=270 height=480></td>
-    <td><img src="https://user-images.githubusercontent.com/24882457/169265320-86665dfe-22b9-49fe-baad-7bdb168f96fe.png" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/24882457/169265591-3c61521c-f76a-4557-a894-0d184f8564b0.png" width=550 height=350></td>
+    <td><img src="https://user-images.githubusercontent.com/24882457/169265320-86665dfe-22b9-49fe-baad-7bdb168f96fe.png" width=550 height=350></td>
     
   </tr>
  </table>
