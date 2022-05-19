@@ -29,13 +29,22 @@ Linear Regression analysis being used predict house prices. Number of bedrooms, 
 
 
 # Code Snapshots and Results 
-![unnamed (1)](https://user-images.githubusercontent.com/24882457/169264752-f2abf6c3-a8e9-429b-9247-9f8b085b76fb.png)
+<div class="row">
+  <div class="column">
+    <img src="https://user-images.githubusercontent.com/24882457/169265591-3c61521c-f76a-4557-a894-0d184f8564b0.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://user-images.githubusercontent.com/24882457/169265320-86665dfe-22b9-49fe-baad-7bdb168f96fe.png" alt="Forest" style="width:100%">
+  </div>
+ </div>
+
 
 ![ERD_28 04 22](https://user-images.githubusercontent.com/24882457/169264269-fdd09f70-abc7-4fc2-8e8e-fe59edcf2bee.PNG)
 ![fig4](https://user-images.githubusercontent.com/24882457/169264365-26c6edc0-c4bb-4cd4-8e57-ac4fee09b185.png)
 ![fig6](https://user-images.githubusercontent.com/24882457/169264408-9f73ee0e-0127-43f7-8da9-4faba0710311.png)
-![unnamed](https://user-images.githubusercontent.com/24882457/169264790-e43767ef-daa2-4b17-b4db-22c0c02d90b5.png)
 
+
+![pnnamed](https://user-images.githubusercontent.com/24882457/169265320-86665dfe-22b9-49fe-baad-7bdb168f96fe.png)
 
 
 <img src="https://user-images.githubusercontent.com/24882457/168723999-368049e6-2fd3-4727-857a-010f53f80b3d.png" width="600" height="400" title="Data engineering – SCHEMA DIAGRAM" style="vertical-align:middle;margin:50px 50px">
