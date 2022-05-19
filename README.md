@@ -29,6 +29,20 @@ Linear Regression analysis being used predict house prices. Number of bedrooms, 
 
 
 # Code Snapshots and Results
+
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Screenshot_1582745092.png" width=270 height=480></td>
+    <td><img src="screenshots/Screenshot_1582745125.png" width=270 height=480></td>
+    <td><img src="screenshots/Screenshot_1582745139.png" width=270 height=480></td>
+  </tr>
+ </table>
+
 <div   style="clear: both; display: table">
   <div   style="float: left;width: 33.33%;padding: 5px">
     <img src="https://user-images.githubusercontent.com/24882457/169265591-3c61521c-f76a-4557-a894-0d184f8564b0.png" alt="Snow" style="width:100%">
