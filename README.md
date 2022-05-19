@@ -9,8 +9,8 @@ Linear Regression analysis being used predict house prices. Number of bedrooms, 
 
 
 ## Technologies/Tools: 
-- Jupyter Notebook
-- Python
+- [X] Jupyter Notebook
+- Python  
 - Numpy
 - Pandas
 - Seaborn
