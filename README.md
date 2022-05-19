@@ -32,8 +32,8 @@ Linear Regression analysis being used predict house prices. Number of bedrooms, 
 
 <table>
   <tr>
-    <td>Application Main Page</td>
-     <td>Tableau Dashboard</td>
+    <td style="text-align:center">Application Main Page</td>
+     <td style="text-align:center">Tableau Dashboard</td>
      
   </tr>
   <tr>
@@ -44,9 +44,9 @@ Linear Regression analysis being used predict house prices. Number of bedrooms, 
 </table>
 <table>
     <tr>
-    <td>Application Main Page</td>
-     <td>Tableau Dashboard</td>
-      <td>Tableau Dashboard</td>
+    <td style="text-align:center">Application Main Page</td>
+     <td style="text-align:center">Tableau Dashboard</td>
+      <td style="text-align:center">Tableau Dashboard</td>
      
   </tr>
   <tr>
