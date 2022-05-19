@@ -29,6 +29,7 @@ Linear Regression analysis being used predict house prices. Number of bedrooms, 
 
 
 # Code Snapshots and Results
+<head>
 <style>
 * {
   box-sizing: border-box;
@@ -47,6 +48,7 @@ Linear Regression analysis being used predict house prices. Number of bedrooms, 
   display: table;
 }
 </style>
+</head>
 <div class="row">
   <div class="column">
     <img src="https://user-images.githubusercontent.com/24882457/169265591-3c61521c-f76a-4557-a894-0d184f8564b0.png" alt="Snow" style="width:100%">
