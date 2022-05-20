@@ -1,9 +1,9 @@
-# Housing Price Prediction
+# Housing Price Prediction:
 The aim of this project is to create an application to predict housing prices of Victoria. The created app can be used by any buyer or an investor to find suburb sales information like number of listed houses, number of sold houses, median price, renting information, etc. 
 Linear Regression analysis being used predict house prices. Number of bedrooms, bathrooms, car space, land area and median suburb sold price are used as prediction features
 
 
-# Data Source
+# Data Source:
 - Fully Automated data collection, usin API Packages - Domain Devleloper Portal https://developer.domain.com.au/
 - LGA locality data, DATA VIC https://discover.data.vic.gov.au/dataset/victorian-electors-by-locality-postcode-and-electorates
 
@@ -28,8 +28,7 @@ Linear Regression analysis being used predict house prices. Number of bedrooms, 
 11. deploy locally
 
 
-# Code Snapshots and Results
-
+# Code Snapshots and Results:
 <table>
   <tr>
     <th style="text-align:center">Application Main Page</td>
@@ -67,8 +66,6 @@ Linear Regression analysis being used predict house prices. Number of bedrooms, 
 06. Phimnarin
 
 
-# Links
+# Contact:
 <img src="https://user-images.githubusercontent.com/24882457/168723224-ecbdb402-be01-453d-9cb5-282424f7418a.png" width="20" height="20" title=" Hatims email"><Hatimf2004@gmail.com>
-
-
 <img src="https://user-images.githubusercontent.com/24882457/168716629-b90f784a-534f-418c-89fd-28e91c4830fa.png" width="20" height="20" title="Linkedin Profile"><https://www.linkedin.com/in/hatim-mansor-a420ab102/>
