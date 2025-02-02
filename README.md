@@ -64,7 +64,7 @@ Linear Regression analysis being used predict house prices. Number of bedrooms, 
 04. Saleha K
 05. Kumudi M
 06. Phimnarin
-
+07. Sawsan H
 
 # Contact:
 <img src="https://user-images.githubusercontent.com/24882457/168723224-ecbdb402-be01-453d-9cb5-282424f7418a.png" width="20" height="20" title=" Hatims email"><Hatimf2004@gmail.com>
